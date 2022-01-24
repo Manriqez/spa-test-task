@@ -1,4 +1,4 @@
-# kurs_compos_freelance
+# spa_test_task
 
 ## Project setup
 ```
